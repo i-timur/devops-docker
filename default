@@ -1,0 +1,9 @@
+# Порт, на котором будет слушать сервер
+Listen 80
+
+# Название сервера и email администратора
+ServerName web-server.com
+ServerAdmin admin@gmail.com
+
+# Корневая директория сайта
+DocumentRoot /var/www/html
